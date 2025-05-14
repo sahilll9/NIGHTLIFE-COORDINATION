@@ -1,0 +1,2 @@
+# NIGHTLIFE-COORDINATION
+I can login using my twitter. I can add a place I am visiting tonight. I can see people visiting the same place as mine, I can see places other people are going to so that I can join them.
